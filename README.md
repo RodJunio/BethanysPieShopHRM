@@ -18,7 +18,7 @@ BethanysPieShopHRM is a Human Resources Management (HRM) application developed t
 ## How to Use BethanysPieShopHRM:
 
 1. **Clone the Repository:**
-git clone https://github.com/your-username/BethanysPieShopHRM.git
+git clone [https://github.com/your-username/BethanysPieShopHRM.git](https://github.com/RodJunio/BethanysPieShopHRM.git)
 
 2. **Run the Project:**
 - Open the project in your preferred IDE (for example, Visual Studio).
@@ -66,7 +66,7 @@ O BethanysPieShopHRM é uma aplicação de Recursos Humanos (HRM) desenvolvida p
 ## Como Utilizar o BethanysPieShopHRM:
 
 1. **Clonar o Repositório:**
-git clone https://github.com/seu-usuario/BethanysPieShopHRM.git
+git clone [https://github.com/seu-usuario/BethanysPieShopHRM.git](https://github.com/RodJunio/BethanysPieShopHRM.git)
 
 2. **Executar o Projeto:**
 - Abra o projeto na sua IDE preferida (por exemplo, Visual Studio).
